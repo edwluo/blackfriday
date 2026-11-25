@@ -1,7 +1,7 @@
 {
   "name": "Vibe Island",
   "url": "https://vibeisland.app/?ref=indiegoodies",
-  "description": "Dynamic Island for AI coding agents: see Claude Code, Codex and 28 more in the Mac notch, approve or answer them there, jump back to the right terminal",
+  "description": "Mac notch panel for Claude Code, Codex, Cursor and 27 more AI coding agents. Approve requests and answer questions there, or jump to the exact terminal tab.",
   "category": "developer-tools",
   "platforms": [
     "mac"
